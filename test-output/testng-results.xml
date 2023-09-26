@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Test Suite" duration-ms="15759" started-at="2023-09-26T10:55:54 EDT" finished-at="2023-09-26T10:56:09 EDT">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="15759" started-at="2023-09-26T10:55:54 EDT" finished-at="2023-09-26T10:56:09 EDT">
+      <class name="Sample.TestClass">
+        <test-method status="PASS" signature="TC1_VerifyPlacingOrder()[pri:1, instance:Sample.TestClass@351d0846]" name="TC1_VerifyPlacingOrder" duration-ms="15704" started-at="2023-09-26T10:55:54 EDT" finished-at="2023-09-26T10:56:09 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC1_VerifyPlacingOrder -->
+      </class> <!-- Sample.TestClass -->
+    </test> <!-- Test -->
+  </suite> <!-- Test Suite -->
+</testng-results>
